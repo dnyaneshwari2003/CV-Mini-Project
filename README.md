@@ -32,7 +32,7 @@ This project demonstrates how to **detect, describe, and match features** in ima
 - **Why ORB instead of SURF?**  
   SURF is **patent-protected** and often not available in open environments like Google Colab. ORB is **free, fast, and efficient**, and works well for matching under **rotation and scale** changes.
 - **Objective**: Detect and match keypoints between two images that differ in orientation and size.
-- **Output**: Top 50 good matches visualized between the two transformed images.
+- **Output**: Key point matches visualized between the two transformed images.
 
 ---
 
