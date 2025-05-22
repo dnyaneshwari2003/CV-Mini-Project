@@ -76,4 +76,3 @@ This project demonstrates how to **detect, describe, and match features** in ima
 - Applying **homography and warping** for image stitching.
 - Comparing multiple feature detectors for robustness and efficiency.
 
----
