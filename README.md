@@ -25,7 +25,7 @@ This project demonstrates how to **detect, describe, and match features** in ima
   Keypoints are matched using SIFT, and a **homography transformation** is applied to warp and align one image with the other.
 - **Output**: A single wide image combining the two input scenes.
 
----
+
 
 ### 3. **ORB (Oriented FAST and Rotated BRIEF)**
 
