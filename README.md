@@ -16,7 +16,7 @@ This project demonstrates how to **detect, describe, and match features** in ima
   SIFT is robust to **scale, rotation, and illumination changes**. It's a popular algorithm used for tasks like image stitching, object recognition, and panorama creation.
 - **Output**: A visualization of matched keypoints between two images and a stitched panoramic image using homography.
 
----
+
 
 ### 2. **Panorama Image Stitching with SIFT**
 
