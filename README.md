@@ -60,13 +60,12 @@ This project demonstrates how to **detect, describe, and match features** in ima
 - `NumPy`: For numerical operations and array manipulation.
 - `Matplotlib`: For displaying images and visual results.
 
----
 
 ## 📁 Input Files
 
 - Image pairs like `Taj1.jpeg`, `Taj2.jpeg`, `Taj_Mahal_scaled_rotated.png`, etc., used for testing feature detection and image stitching.
 
----
+
 
 ## 🎯 Learning Outcomes
 
