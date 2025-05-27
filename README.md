@@ -34,7 +34,6 @@ This project demonstrates how to **detect, describe, and match features** in ima
 - **Objective**: Detect and match keypoints between two images that differ in orientation and size.
 - **Output**: Key point matches visualized between the two transformed images.
 
----
 
 ### 4. **Harris Corner Detection**
 
