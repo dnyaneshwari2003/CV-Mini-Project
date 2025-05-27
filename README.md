@@ -42,7 +42,6 @@ This project demonstrates how to **detect, describe, and match features** in ima
   It's a **classical method** useful for detecting **corners**, which are important for understanding shapes and features in an image.
 - **Output**: The corners are marked clearly on the original image.
 
----
 
 ### 5. **Combined Feature Visualization (SIFT, ORB, Harris)**
 
