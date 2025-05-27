@@ -52,7 +52,7 @@ This project demonstrates how to **detect, describe, and match features** in ima
   - **Harris** highlights simple but effective corner detection.
 - **Output**: A triptych visualization showing how each technique detects features differently.
 
----
+
 
 ## 🔧 Tools & Libraries Used
 
