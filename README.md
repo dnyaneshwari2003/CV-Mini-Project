@@ -1,7 +1,7 @@
 
 # 🧠 Computer Vision Mini Project: Feature Detection & Matching
 
-## 📌 Project Overview
+## 📌Overview
 
 This project demonstrates how to **detect, describe, and match features** in images using well-known computer vision algorithms. The aim is to explore different techniques for keypoint detection and how they help in understanding and matching images, even under transformations like rotation, scale, or perspective changes.
 
