@@ -7,7 +7,7 @@ This project demonstrates how to **detect, describe, and match features** in ima
 
 
 
-## ✅ Tasks Covered
+## ✅ Tasks Covered :
 
 ### 1. **SIFT (Scale-Invariant Feature Transform) Matching**
 
